@@ -3,6 +3,8 @@ Taller Aplicaciones Web.
 Carmen Mariela Colman
 
 
+```html
+
 1. Que es el servidor?
 	Es un programa a que es capaz  de atender a requisiciones y enviar una respuesta
 
@@ -119,4 +121,5 @@ Guarda los cambios en un repositorio remoto
 24. Que es la rama master?
 La rama por defecto de Git es la rama master . Con la primera confirmación de cambios que realicemos, se creará esta rama principal master apuntando a dicha confirmación.
 
-25. 
+
+```
